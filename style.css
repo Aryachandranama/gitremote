@@ -388,7 +388,7 @@ section {
     .nav-toggle {
         display: block; /* Show the toggle button */
         position: absolute;
-        right: 20px;
+        right: 40px;
         top: 20px;
     }
 
